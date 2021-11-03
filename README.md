@@ -1,13 +1,13 @@
 <h2>👨‍🦲 Hello! I'm Matheus.</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/livramatheus">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
-</a>
-<a target="_blank" href="https://livramento.dev">
-  <img align="left" alt="Devto" width="22px" src="https://img.icons8.com/color/50/000000/domain--v1.png"/>
+  <img align="left" alt="LinkdeIn" title="LinkedIn" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
 </a>
 <a target="_blank" href="mailto:hire.livramento@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/50/000000/gmail--v1.png"/>
+  <img align="left" alt="Gmail" title="Gmail" width="22px" src="https://img.icons8.com/color/50/000000/gmail--v1.png"/>
+</a>
+<a target="_blank" href="https://livramento.dev">
+  <img align="left" alt="livramento.dev" title="My Website" width="22px" src="https://img.icons8.com/color/50/000000/domain--v1.png"/>
 </a>
 
 <br/>
