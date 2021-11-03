@@ -1,24 +1,9 @@
 <h2>👨‍🦲 Hello! I'm Matheus.</h2>
 
-<a target="_blank" href="https://www.linkedin.com/in/livramatheus">
-  <img align="left" alt="LinkdeIn" title="LinkedIn" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
-</a>
-<a target="_blank" href="mailto:hire.livramento@gmail.com">
-  <img align="left" alt="Gmail" title="Gmail" width="22px" src="https://img.icons8.com/color/50/000000/gmail--v1.png"/>
-</a>
-<a target="_blank" href="https://livramento.dev">
-  <img align="left" alt="livramento.dev" title="My Website" width="22px" src="https://img.icons8.com/color/50/000000/domain--v1.png"/>
-</a>
-
-<br/>
-<hr/>
-
-<p>I'm a <strong>full-stack developer</strong> in continuous learning who loves clean code.</p>
+<p>I'm a <strong>full-stack developer</strong> who loves to code and learn new technologies that makes programming cleaner.</p>
 <p>I jumped into web development more than 12 years ago when I participated in my first Design & Web course. Then, 3 years later I started to learn Java and C++ in college. As time went on, I transitioned to PHP and JavaScript and now I'm specializing on a JavaScript stack, since it excites me a lot on how productive it is.</p>
 
 <h3>My skills:</h3>
-
-<p></p>
 
 <ul>
   <li>
@@ -43,3 +28,26 @@
     <strong>Others: </strong> basic Git Workflow, jQuery, BIRT, Production Deploys, NetBeans IDE and VS Code.
   </li>
 </ul>
+
+<h3>Currently working:</h3>
+
+<ul>
+  <li>
+    <a href="https://luacrypto.com" target="_blank">LuaCrypto</a> (React cryptocurrency app)
+  </li>
+  <li>
+    <a href="https://www.livramento.dev" target="_blank">Personal Portfolio</a> (<a href="https://github.com/livramatheus/livramento" target="_blank">GitHub Repo</a>)
+  </li>
+</ul>
+
+<hr/>
+
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/livramatheus">
+  <img align="left" alt="LinkdeIn" title="LinkedIn" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
+</a>
+<a target="_blank" href="mailto:hire.livramento@gmail.com">
+  <img align="left" alt="Gmail" title="Gmail" width="22px" src="https://img.icons8.com/color/50/000000/gmail--v1.png"/>
+</a>
+  Check out more about me on <a href="https://www.livramento.dev" target="_blank">livramento.dev</a>
+</div>
