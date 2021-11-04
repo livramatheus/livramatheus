@@ -1,7 +1,7 @@
 <h2>👨‍🦲 Hello! I'm Matheus.</h2>
 
 <p>I'm a <strong>full-stack developer</strong> who loves to code and learn new technologies that makes programming cleaner.</p>
-<p>I jumped into web development more than 12 years ago when I participated in my first Design & Web course. Then, 3 years later I started to learn Java and C++ in college. As time went on, I transitioned to PHP and JavaScript and now I'm specializing on a JavaScript stack, since it excites me a lot on how productive it is.</p>
+<p>I jumped into web development more than 12 years ago when I participated in my first Design & Web course. Three years later I started to learn Java and C++ in college. As time went on, I transitioned to PHP and JavaScript and now I'm specializing on a JavaScript stack, since it excites me a lot on how productive it is.</p>
 
 <h3>My skills:</h3>
 
