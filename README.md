@@ -35,6 +35,9 @@
   <li>
     <a href="https://www.livramento.dev" target="_blank">Personal Portfolio</a> (<a href="https://github.com/livramatheus/livramento" target="_blank">GitHub Repo</a>)
   </li>
+  <li>
+    <a href="https://github.com/livramatheus/planetgame_back" target="_blank">Planet Game (Back-end)</a>
+  </li>
 </ul>
 
 <hr/>
