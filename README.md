@@ -33,9 +33,6 @@
 
 <ul>
   <li>
-    <a href="https://luacrypto.com" target="_blank">LuaCrypto</a> (React cryptocurrency app)
-  </li>
-  <li>
     <a href="https://www.livramento.dev" target="_blank">Personal Portfolio</a> (<a href="https://github.com/livramatheus/livramento" target="_blank">GitHub Repo</a>)
   </li>
 </ul>
