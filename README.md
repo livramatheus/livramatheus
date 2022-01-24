@@ -38,6 +38,9 @@
   <li>
     <a href="https://github.com/livramatheus/planetgame_back" target="_blank">Planet Game (Back-end)</a>
   </li>
+  <li>
+    <a href="https://github.com/livramatheus/planetgame_front" target="_blank">Planet Game (Front-end)</a>
+  </li>
 </ul>
 
 <hr/>
