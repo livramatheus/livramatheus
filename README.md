@@ -29,9 +29,6 @@
   </li>
 </ul>
 
-<h3>Currently working:</h3>
-<a href="https://github.com/livramatheus/mixify" target="_blank">Mixify</a>
-
 <hr/>
 
 <div>
