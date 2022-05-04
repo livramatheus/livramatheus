@@ -19,7 +19,7 @@
     <strong>Node.js: </strong> intermediate. 1 year of experience. Familiar with MVC architecture.
   </li>
   <li>
-    <strong>PHP: </strong> advanced. 3 years of experience. Familiar with Object-Oriented Programming and MVC architecture.
+    <strong>PHP: </strong> advanced. 4 years of experience. Familiar with Object-Oriented Programming and MVC architecture.
   </li>
   <li>
     <strong>Database: </strong> intermediate. 3 years of experience. Familiar with MySQL and PostgreSQL.
@@ -30,18 +30,7 @@
 </ul>
 
 <h3>Currently working:</h3>
-
-<ul>
-  <li>
-    <a href="https://www.livramento.dev" target="_blank">Personal Portfolio</a> (<a href="https://github.com/livramatheus/livramento" target="_blank">GitHub Repo</a>)
-  </li>
-  <li>
-    <a href="https://github.com/livramatheus/planetgame_back" target="_blank">Planet Game (Back-end)</a>
-  </li>
-  <li>
-    <a href="https://github.com/livramatheus/planetgame_front" target="_blank">Planet Game (Front-end)</a>
-  </li>
-</ul>
+<a href="https://github.com/livramatheus/mixify" target="_blank">Mixify</a>
 
 <hr/>
 
