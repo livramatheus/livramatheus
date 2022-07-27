@@ -21,7 +21,7 @@
 
 <h1 align="center">Languages and Tools:</h1>
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=livramatheus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="livramatheus" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=livramatheus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="livramatheus" />
 
 <div align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
