@@ -1,42 +1,63 @@
-<h2>👨‍🦲 Hello! I'm Matheus.</h2>
+![banner](https://i.imgur.com/7Qhov4Z.jpg)
 
-<p>I'm a <strong>full-stack developer</strong> who loves to code and learn new technologies that makes programming cleaner.</p>
-<p>I jumped into web development more than 12 years ago when I participated in my first Design & Web course. Three years later I started to learn Java and C++ in college. As time went on, I transitioned to PHP and JavaScript and now I'm specializing on a JavaScript stack, since it excites me a lot on how productive it is.</p>
+<h1 align="center">Hello there, I'm Matheus do Livramento</h1>
 
-<h3>My skills:</h3>
+<img src="https://i.imgur.com/J7V59Su.png" width="40%" align="right">
 
-<ul>
-  <li>
-    <strong>HTML/CSS: </strong> advanced. 5 years of experience.
-  </li>
-  <li>
-    <strong>JavaScript: </strong> intermediate-advanced. 3 years of experience.
-  </li>
-  <li>
-    <strong>React: </strong> intermediate. 1 year of experience. Developed various projects. Familiar with functional programming.
-  </li>
-  <li>
-    <strong>Node.js: </strong> intermediate. 1 year of experience. Familiar with MVC architecture.
-  </li>
-  <li>
-    <strong>PHP: </strong> advanced. 4 years of experience. Familiar with Object-Oriented Programming and MVC architecture.
-  </li>
-  <li>
-    <strong>Database: </strong> intermediate. 3 years of experience. Familiar with MySQL and PostgreSQL.
-  </li>
-  <li>
-    <strong>Others: </strong> basic Git Workflow, jQuery, BIRT, Production Deploys, NetBeans IDE and VS Code.
-  </li>
-</ul>
+<div align="left">
 
-<hr/>
+  - 🏦 Expert in back-end software engineering
 
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/livramatheus">
-  <img align="left" alt="LinkdeIn" title="LinkedIn" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
-</a>
-<a target="_blank" href="mailto:hire.livramento@gmail.com">
-  <img align="left" alt="Gmail" title="Gmail" width="22px" src="https://img.icons8.com/color/50/000000/gmail--v1.png"/>
-</a>
-  Check out more about me on <a href="https://www.livramento.dev" target="_blank">livramento.dev</a>
+  - 🔭 I’m currently working on [Thunder Fox Arena](https://github.com/livramatheus/thunder-fox-arena), a game built from the ground up using JavaScript.
+
+  - 🌱 I’m currently learning **TypeScript, React Native and Next.js**
+
+  - 👨‍💻 You can find more info about me and my projects on [www.livramento.dev](https://www.livramento.dev)
+  
+  - ✉️ You can contact me through <a target="_blank" href="mailto:hire.livramento@gmail.com">Email</a> and <a href="https://www.linkedin.com/in/livramatheus" target="_blank">LinkedIn</a>
 </div>
+
+<br /><br />
+
+<h1 align="center">Languages and Tools:</h1>
+
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=livramatheus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="livramatheus" />
+
+<div align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</div>
+
+<br /><br /><br /><br />
+
+<h1 align="center">GitHub Stats:</h1>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=livramatheus&show_icons=true&theme=dracula&locale=en" alt="livramatheus" />
+
+<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=livramatheus&theme=dracula" alt="livramatheus" />
