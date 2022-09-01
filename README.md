@@ -8,8 +8,6 @@
 
   - 🏦 Expert in back-end software engineering
 
-  - 🔭 I’m currently working on [Thunder Fox Arena](https://github.com/livramatheus/thunder-fox-arena), a game built from the ground up using JavaScript.
-
   - 🌱 I’m currently learning **TypeScript, React Native and Next.js**
 
   - 👨‍💻 You can find more info about me and my projects on [www.livramento.dev](https://www.livramento.dev)
