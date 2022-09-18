@@ -8,7 +8,7 @@
 
   - 🏦 Expert in back-end software engineering
 
-  - 🌱 I’m currently learning **TypeScript, React Native and Next.js**
+  - 🌱 I’m currently improving my Node.js skills and learning TypeScript
 
   - 👨‍💻 You can find more info about me and my projects on [www.livramento.dev](https://www.livramento.dev)
   
