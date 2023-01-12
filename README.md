@@ -19,7 +19,7 @@
 
 <h1 align="center">Languages and Tools:</h1>
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=livramatheus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="livramatheus" />
+<img align="right" width="35%" src="https://github-readme-stats-one-lime.vercel.app/api/top-langs?username=livramatheus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="livramatheus" />
 
 <div align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -58,6 +58,6 @@
 
 <h1 align="center">GitHub Stats:</h1>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=livramatheus&show_icons=true&theme=dracula&locale=en" alt="livramatheus" />
+<img align="left" width="45%" src="https://github-readme-stats-one-lime.vercel.app/api?username=livramatheus&show_icons=true&theme=dracula&locale=en" alt="livramatheus" />
 
 <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=livramatheus&theme=dracula" alt="livramatheus" />
