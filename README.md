@@ -5,7 +5,8 @@
 <img src="https://i.imgur.com/J7V59Su.png" width="40%" align="right">
 
 <div align="left">
-
+  <i>⚠️ Away from studies since October 2023, I had to shift focus. I'll be back soon. ⚠️</i>
+  
   - 🏦 Expert in back-end software engineering
 
   - 🌱 I’m currently improving my Node.js skills and learning TypeScript
@@ -59,11 +60,3 @@
   <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="github actions" width="40" height="40"/>
   </a>
 </div>
-
-<br /><br /><br /><br />
-
-<h1 align="center">GitHub Stats:</h1>
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=livramatheus&show_icons=true&theme=dracula&locale=en" alt="livramatheus" />
-
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=livramatheus&theme=dracula" alt="livramatheus" />
