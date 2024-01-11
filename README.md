@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/J7V59Su.png" width="40%" align="right">
 
 <div align="left">
-  <i>⚠️ Away from studies since October 2023, I had to shift focus. I'll be back soon. ⚠️</i>
+  <i>⚠️ Away from studies since October 2023, I had to shift focus. I'll be back soon.</i>
   
   - 🏦 Expert in back-end software engineering
 
